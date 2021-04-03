@@ -1,4 +1,4 @@
-import {WhatCommon} from './../library/game2/round_1'
+import {WhatCommon} from './../library/game3/round_1'
 
 const SHOW_ANSWER_WHAT_COMMON = 'SHOW_ANSWER_WHAT_COMMON';
 

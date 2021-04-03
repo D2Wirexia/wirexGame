@@ -7,6 +7,8 @@ import RoundFourContainer from "./component/GameRound/PutInPlace/PutInPlaceConta
 import RoundOneContainer from "./component/GameRound/WhatCommon/WhatCommonContainer";
 import RoundTwoContainer from "./component/GameRound/SomethingOne/SomethingOneContainer";
 import MainMenuContainer from "./component/MainMenu/MainMenuContainer";
+import WordByCelebrityContainer
+   from "./component/GameRound/WordByCelebrity/WordByCelebrityContainer";
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
          <Route path={'/round-2'} render={() => <RoundTwoContainer />} />
          <Route path={'/round-3'} render={() => <RoundThreeContainer/>} />
          <Route path={'/round-4'} render={() => <RoundFourContainer/>} />
+         <Route path={'/round-5'} render={() => <WordByCelebrityContainer/>} />
        </div>
   );
 }

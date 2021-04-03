@@ -2,19 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb98e31-b6cd-4655-8ee2-e22ee5bbd92a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/component/GameRound/WordByCelebrity/WordByCelebrity.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/GameRound/WordByCelebrity/WordByCelebrity.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/GameRound/WordByCelebrity/WordByCelebrityContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game1/round_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game1/round_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game1/round_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game2/round_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game3/round_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game3/round_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game3/round_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game3/round_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/game3/round_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/WordByCelebrityReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/PutInPlaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/PutInPlaces.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/MusicWords/MusicWords.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/MusicWords/MusicWords.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/MusicWords/MusicWords.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/MusicWords/MusicWords.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/PutInPlace/PutInPlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/PutInPlace/PutInPlace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/PutInPlace/PutInPlace.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/PutInPlace/PutInPlace.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/SomethingOne/SomethingOne.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/SomethingOne/SomethingOne.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/SomethingOne/SomethingOne.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/SomethingOne/SomethingOne.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/PutInPlaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/game2/PutInPlaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/state-templates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/state-templates.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/GameRound/WhatCommon/WhatCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/WhatCommon/WhatCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/WhatCommon/WhatCommon.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/WhatCommon/WhatCommon.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/HeaderInfoTable/InfoTableContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/HeaderInfoTable/InfoTableContainer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/game2/round_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/game2/round_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MainMenu/MainMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainMenu/MainMenu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/autograph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus1.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus10.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus11.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus12.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus3.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus4.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus5.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus6.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus7.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus8.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/mus9.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/MusicWordsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/MusicWordsReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/PutInPlaceReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/PutInPlaceReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/SomethingOneReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/SomethingOneReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/WhatCommonReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/WhatCommonReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/redux-store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -42,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/library" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/library/game1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -58,13 +86,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\React-project\WirexGame\wirexGame\src\library\game2" />
       <recent name="D:\React-project\WirexGame\wirexGame\src\store" />
       <recent name="D:\React-project\ert\wer\src\component" />
       <recent name="D:\React-project\TRANSFER-PERSONAL\transfer-personal\src\components\Vacansions" />
       <recent name="D:\React-project\TRANSFER-PERSONAL\transfer-personal\src\components\Services\StickySlider" />
-      <recent name="D:\React-project\TRANSFER-PERSONAL\transfer-personal\src\components\Services" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\React-project\WirexGame\wirexGame\src\library\game1" />
+      <recent name="D:\React-project\WirexGame\wirexGame\src\library" />
       <recent name="D:\React-project\WirexGame\wirexGame\public" />
       <recent name="D:\React-project\ert\wer\src\component\Round" />
     </key>
@@ -180,7 +210,15 @@
       <workItem from="1615459899913" duration="22933000" />
       <workItem from="1615485251695" duration="450000" />
       <workItem from="1615532609575" duration="21169000" />
-      <workItem from="1615629937304" duration="10630000" />
+      <workItem from="1615629937304" duration="12417000" />
+      <workItem from="1616069818432" duration="124000" />
+      <workItem from="1616354327265" duration="10000" />
+      <workItem from="1616354623967" duration="642000" />
+      <workItem from="1616355448666" duration="61000" />
+      <workItem from="1617281030779" duration="16060000" />
+      <workItem from="1617345499985" duration="47000" />
+      <workItem from="1617369611522" duration="15043000" />
+      <workItem from="1617438607151" duration="16248000" />
     </task>
     <servers />
   </component>
@@ -200,26 +238,26 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="359" y="166" key="#tester4ik.js/0.0.1280.984@0.0.1280.984" timestamp="1610447304243" />
-    <state x="378" y="324" key="FileChooserDialogImpl" timestamp="1613901332923">
+    <state x="378" y="324" key="FileChooserDialogImpl" timestamp="1617345545370">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="378" y="324" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1613901332923" />
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1615637583058">
+    <state x="378" y="324" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1617345545370" />
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1616355509831">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1615637583058" />
-    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1615637583058">
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1616355509831" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1616355509831">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1615637583058" />
-    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1615637583058">
+    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1616355509831" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1616355509831">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1615637583058" />
-    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1615637583058">
+    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1616355509831" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1616355509831">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1615637583058" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1616355509831" />
     <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1610713389831">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -268,10 +306,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1259" height="325" key="GridCell.Tab.3.right/0.0.1280.984@0.0.1280.984" timestamp="1610713389831" />
-    <state x="473" y="208" width="368" height="573" key="RollbackChangesDialog" timestamp="1610284414057">
+    <state x="473" y="208" width="368" height="573" key="RollbackChangesDialog" timestamp="1617441349437">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="473" y="208" width="368" height="573" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1610284414057" />
+    <state x="473" y="208" width="368" height="573" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1617441349437" />
     <state x="296" y="226" key="run.anything.popup" timestamp="1613659391137">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

@@ -21,7 +21,7 @@ const WhatCommon = (props) => {
 		 </div>;
 	nowCountRound % 2 === 0 ? props.roundTeamSet('Red') : props.roundTeamSet('Blue');
 	return (
-		 <div className={s.round1} id={'styleBackground'}>
+		 <div className={s.round1}>
 			 <div className={s.body_button}>
 				 <div className={s.button_hola} onClick={() => {
 					 if (nowCountRound % 2 === 0) {

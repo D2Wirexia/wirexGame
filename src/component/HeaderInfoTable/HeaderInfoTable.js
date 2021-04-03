@@ -59,7 +59,7 @@ function HeaderInfoTable(props) {
 				 </div>*/}
 				<div className={s.showArrBntRound}>Перейти к следующему раунду</div>
 				 <ul className={s.arrBntRound}>
-					<li>
+					<div>
 						<NavLink to={'/'}
 									activeClassName={s.active}
 									className={`${s.button} ${s.pill}`}
@@ -69,39 +69,46 @@ function HeaderInfoTable(props) {
 									}}>
 							<i className="fas fa-home"/>
 						</NavLink>
-					</li>
-					 <li>
-					 <NavLink to={'/round-1'}
-								 activeClassName={s.active}
-								 className={`${s.button} ${s.pill}`}
-								 onClick={()=> {props.setCountRound()}}>
-						 Раунд 1
-					 </NavLink>
-					</li>
-					 <li>
-					 <NavLink to={'/round-2'}
-								 activeClassName={s.active}
-								 className={`${s.button} ${s.pill}`}
-								 onClick={()=> {props.setCountRound()}}>
-						 Раунд 2
-					 </NavLink>
-				 </li>
-					 <li>
-					 <NavLink to={'/round-3'}
-								 activeClassName={s.active}
-								 className={`${s.button} ${s.pill}`}
-								 onClick={()=> {props.setCountRound()}}>
-						 Раунд 3
-					 </NavLink>
-			 </li>
-					 <li>
-					 <NavLink to={'/round-4'}
-								 activeClassName={s.active}
-								 className={`${s.button} ${s.pill}`}
-								 onClick={()=> {props.setCountRound()}}>
-						 Раунд 4
-					 </NavLink>
-		 </li>
+					</div>
+					 <div>
+						 <ul className={`${s.button} ${s.pill}`}>
+							 Показать раунды
+
+							 <li>
+								 <NavLink to={'/round-1'}
+											 onClick={()=> {props.setCountRound()}}>
+									 Что общего?
+								 </NavLink>
+							 </li>
+							 <li>
+								 <NavLink to={'/round-2'}
+											 onClick={()=> {props.setCountRound()}}>
+									 1 из 3
+								 </NavLink>
+							 </li>
+							 <li>
+								 <NavLink to={'/round-3'}
+											 onClick={()=> {props.setCountRound()}}>
+									 Музыкальная шкатулка
+								 </NavLink>
+							 </li>
+							 <li>
+								 <NavLink to={'/round-4'}
+											 onClick={()=> {props.setCountRound()}}>
+									 Раставить по местам
+								 </NavLink>
+							 </li>
+							 <li>
+								 <NavLink to={'/round-5'}
+											 onClick={()=> {props.setCountRound()}}>
+									 Связывающее
+								 </NavLink>
+							 </li>
+						 </ul>
+					 </div>
+
+
+
 				 </ul>
 			 </div>
 

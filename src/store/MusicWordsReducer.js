@@ -1,4 +1,4 @@
-import {MusicWord} from "../library/game2/round_3";
+import {MusicWord} from "../library/game3/round_3";
 
 const VISION_WORD_1 = 'VISION_WORD_1';
 const VISION_WORD_2 = 'VISION_WORD_2';

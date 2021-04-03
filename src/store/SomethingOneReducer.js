@@ -1,11 +1,11 @@
-import {OneOfTheThree} from "../Task/state-templates";
+import {SomethingOne} from "../library/game3/round_2";
 
 const VAR_ONE = 'VAR_ONE';
 const VAR_TWO = 'VAR_TWO';
 const VAR_THREE = 'VAR_THREE';
 
 let initialState = {
-	oneOfTheThree: OneOfTheThree,
+	oneOfTheThree: SomethingOne,
 	varOne: false,
 	varTwo: false,
 	varThree: false,

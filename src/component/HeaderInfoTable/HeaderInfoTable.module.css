@@ -88,45 +88,50 @@
 	background-image: linear-gradient(#599bdc, #3072b3);
 }
 
-.button:active,
-.button.active {
-	text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3);
-	color: #fff;
-	border-color: #2a65a0;
-	border-bottom-color: #3884CF;
-	background-color: #3072b3;
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3072b3), to(#599bdc));
-	background-image: -webkit-linear-gradient(#3072b3, #599bdc);
-	background-image: -moz-linear-gradient(#3072b3, #599bdc);
-	background-image: -o-linear-gradient(#3072b3, #599bdc);
-	background-image: -ms-linear-gradient(#3072b3, #599bdc);
-	background-image: linear-gradient(#3072b3, #599bdc);
-}
 
-.button::-moz-focus-inner {
-	padding: 0;
-	border: 0;
-}
 
-.button.primary {
-	font-weight: bold
-}
-
-.button.pill {
-	-webkit-border-radius: 50em;
-	-moz-border-radius: 50em;
-	border-radius: 50em;
-}
 
 .arrBntRound {
-	list-style: none;
-	padding: 0;
-	margin: 10px;
-	zoom: 1;
-	display: block;
-	overflow: hidden;
+	display: flex;
+	position: relative;
+	width: 400px;
+	left: 50%;
+	transform: translate(-50%);
 }
-
+.arrBntRound div ul{
+	list-style: none;
+	position: absolute;
+	width: 300px;
+	overflow: hidden;
+	overflow-y: scroll;
+	text-align: center;
+	cursor: pointer;
+}
+.arrBntRound div ul:hover{
+	height: 90px;
+}
+.arrBntRound div ul li{
+	position: relative;
+	display: none;
+	width: 300px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+.arrBntRound div ul li:last-child{
+	margin-bottom: 20px;
+}
+.arrBntRound div ul li a{
+	text-decoration: none;
+	background: #fff;
+	position: relative;
+	width: 250px;
+	display: block;
+	text-align: center;
+	font-family: Broadway;
+}
+.arrBntRound div ul:hover li{
+	display: block;
+}
 .button + .button,
 .button + .arrBntRound,
 .arrBntRound + .button,
@@ -134,44 +139,10 @@
 	margin-left: 15px
 }
 
-.arrBntRound li {
-	float: left;
-	padding: 0;
-	margin: 0;
-}
-
 .arrBntRound .button {
-	float: left;
 	margin-left: -1px;
 }
 
-.arrBntRound > .button:not(:first-child):not(:last-child),
-.arrBntRound li:not(:first-child):not(:last-child) .button {
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	border-radius: 0;
-}
-
-.arrBntRound > .button:first-child,
-.arrBntRound li:first-child .button {
-	margin-left: 0;
-	-webkit-border-top-right-radius: 0;
-	-webkit-border-bottom-right-radius: 0;
-	-moz-border-radius-topright: 0;
-	-moz-border-radius-bottomright: 0;
-	border-top-right-radius: 0;
-	border-bottom-right-radius: 0;
-}
-
-.arrBntRound > .button:last-child,
-.arrBntRound li:last-child > .button {
-	-webkit-border-top-left-radius: 0;
-	-webkit-border-bottom-left-radius: 0;
-	-moz-border-radius-topleft: 0;
-	-moz-border-radius-bottomleft: 0;
-	border-top-left-radius: 0;
-	border-bottom-left-radius: 0;
-}
 
 .red {
 	float: left;

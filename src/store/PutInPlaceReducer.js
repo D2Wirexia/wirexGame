@@ -1,4 +1,4 @@
-import {PutInPlaces} from "../Task/PutInPlaces";
+import {PutInPlaces} from "../library/game3/round_4";
 
 const CHOOSE_VARIANTS_1 = 'CHOOSE_VARIANTS_1';
 const CHOOSE_VARIANTS_2 = 'CHOOSE_VARIANTS_2';
