@@ -309,6 +309,13 @@ const PutInPlace = (props) => {
 					 props.activeBtnCountPoints(true);
 					 props.showAnswerPutInPlace(false);
 					 setBtnIsActive(false);
+					 setResultsSelectedValues([]);
+					 setResultSelectValue1(0);
+					 setResultSelectValue2(0);
+					 setResultSelectValue3(0);
+					 setResultSelectValue4(0);
+					 setResultSelectValue5(0);
+					 setResultSelectValue6(0);
 				 }}>
 					 <i className="fas fa-chevron-circle-left"/>
 				 </button>
@@ -323,6 +330,13 @@ const PutInPlace = (props) => {
 					 props.activeBtnCountPoints(true);
 					 props.showAnswerPutInPlace(false);
 					 setBtnIsActive(false);
+					 setResultsSelectedValues([]);
+					 setResultSelectValue1(0);
+					 setResultSelectValue2(0);
+					 setResultSelectValue3(0);
+					 setResultSelectValue4(0);
+					 setResultSelectValue5(0);
+					 setResultSelectValue6(0);
 				 }}>
 					 <i className="fas fa-chevron-circle-right"/>
 				 </button>

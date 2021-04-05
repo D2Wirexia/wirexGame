@@ -2,47 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb98e31-b6cd-4655-8ee2-e22ee5bbd92a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/GameRound/WordByCelebrity/WordByCelebrity.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/GameRound/WordByCelebrity/WordByCelebrity.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/GameRound/WordByCelebrity/WordByCelebrityContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game1/round_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game1/round_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game1/round_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game2/round_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game3/round_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game3/round_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game3/round_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game3/round_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/game3/round_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/WordByCelebrityReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/PutInPlaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/game2/PutInPlaces.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/state-templates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/state-templates.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/GameRound/WhatCommon/WhatCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/WhatCommon/WhatCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/HeaderInfoTable/HeaderInfoTable.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/MainMenu/MainMenu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MainMenu/MainMenu.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/autograph.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus10.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus11.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus12.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus5.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus6.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus7.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus8.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/mus9.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/library/test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/MusicWordsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/MusicWordsReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/PutInPlaceReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/PutInPlaceReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/SomethingOneReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/SomethingOneReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/WhatCommonReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/WhatCommonReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/redux-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/GameRound/PutInPlace/PutInPlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/GameRound/PutInPlace/PutInPlace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/backsong.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/backsong.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/game3/round_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/game3/round_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/game3/round_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/game3/round_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/game3/round_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/game3/round_4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +183,10 @@
       <workItem from="1617281030779" duration="16060000" />
       <workItem from="1617345499985" duration="47000" />
       <workItem from="1617369611522" duration="15043000" />
-      <workItem from="1617438607151" duration="16248000" />
+      <workItem from="1617438607151" duration="16998000" />
+      <workItem from="1617465010654" duration="3000" />
+      <workItem from="1617538175800" duration="2576000" />
+      <workItem from="1617553281591" duration="2181000" />
     </task>
     <servers />
   </component>

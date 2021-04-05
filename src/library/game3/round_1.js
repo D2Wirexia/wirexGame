@@ -35,7 +35,7 @@ export const WhatCommon = [
 		img: [
 			'http://ptb-pro.ru/upload/medialibrary/razmetka/znaki-preduprejdaushie_1.gif',
 			'https://psyh-olog.ru/wp-content/uploads/2014/06/%D0%9A%D0%B0%D0%BA-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D1%87%D1%8C-%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B8.jpg',
-			'https://lh3.googleusercontent.com/proxy/dn7M0B-nyV9WuNUkijFuWssY5D2aAShNV-6uGrqUGgyVO2c1R8y6MsgR4ylrssU5XEU79jRaBKr6tUiCPcFFbQVvG4n_dRXZ7Y2NQ30kAn5FpGepn8N6KBDWR-0KV9c'
+			'https://seniga.ru/images/compas/image303.jpg'
 		],
 		answer: 'Внимание'
 	},

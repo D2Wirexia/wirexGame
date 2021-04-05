@@ -47,7 +47,7 @@ export const PutInPlaces = [
 			'https://cdna.artstation.com/p/assets/images/images/012/111/560/large/julian-sepay-renaldi-earthshaker.jpg?1533095028',
 			'https://dota2.ru/img/heroes/puck/portrait.jpg',
 			'https://dota2.ru/img/heroes/dragon_knight/portrait.jpg',
-			'https://lh3.googleusercontent.com/proxy/GCtrFD7rlx2LgvmUa3lwLehSlq_xAMv4ZfKVaDW3IP-iOZiSQ3iSYbztNKfOr-gCw7wE2CZzPPqdzfRMcMIg',
+			'https://dota2.ru/img/heroes/centaur_warrunner/portrait.jpg',
 		],
 		concept: ['husky', 'kaka', 'Yapz0r', 'Iceberg', 's4', 'Faith_bian'],
 		conceptRand: ['kaka', 'Iceberg', 'husky', 'Faith_bian', 's4', 'Yapz0r'],

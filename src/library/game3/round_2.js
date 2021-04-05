@@ -28,7 +28,7 @@ export const SomethingOne = [
 	},
 	{
 		img: [
-			'https://lh3.googleusercontent.com/proxy/chWeCok6xLi38Me6TIIOE3VkbQybkKLevxtdipxaFYWLqtfS35S0Sg-Ifi_Poie0Qe3sM0jFQ4Evc8mNKZGajamszVMTb_XkpAWVfAa4wRih6LKvwb_CTLvTZ3RDlZ3TdLWlKp4',
+			'https://lh3.googleusercontent.com/proxy/HZaTASQtwXxGHQdO9w2aFqWwtF77H5WCTF_PNt45HQ88zRycVZ611zyQ_VS1t-o9Hch3AJGJbF3fvv_Gqgq3k9oSZOh0XpbU8RyvgkO-OyAKPoWHeasCzs3U3ew7diHPLtq0nmA',
 			'https://svirtus.cdnvideo.ru/OYi9DlGDf-uv1cAD_JNoTssaoQI=/0x0:1080x1080/800x0/filters:quality(100)/https://hb.bizmrg.com/cybersportru-media/16/16abaa1a67dc84ac370f41fe59527ea9.jpg?m=72a4b33bdc462db6fecd0e624f14812a',
 			'https://yt3.ggpht.com/ytc/AAUvwniIaif94L3YJJ3h9iejepkWSqGLriqhFu1d1po=s900-c-k-c0x00ffffff-no-rj'
 		],
